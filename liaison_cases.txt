@@ -29,7 +29,7 @@
 105  est assis                     et a-si                       , il est assis .
 109  est à                         et a                          qu' il est à la
 116  peut être                     p2t EtR                       on pourrait peut être faire
-141  lesquelles il                 lE-kElz il                    polies pour lesquelles il n'
+*141  lesquelles il                 lE-kElz il                    polies pour lesquelles il n'
 145  nous avons                    nuz a-v§                      parce que nous avons une
 148  est impressionnant            et 5-pRe-sjo-n@               alors c' est impressionnant quand
 148  ils entendent                 ilz @-t@d                     gens quand ils entendent un
